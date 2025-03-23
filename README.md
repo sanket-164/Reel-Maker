@@ -1,6 +1,6 @@
-# Video to Reels
+# Reel Maker
 
-Video to Reels is a Streamlit-based application that allows users to upload a video, automatically generate short highlight reels, and download them. This project uses OpenAI's Whisper model for audio-to-text conversion, along with other tools for video processing and summarization. 
+Reel Maker is a Streamlit-based application that allows users to upload a video, automatically generate short highlight reels, and download them. This project uses OpenAI's Whisper model for audio-to-text conversion, along with other tools for video processing and summarization. 
 
 ## Features
 - **Video Upload**: Users can upload their video files.
