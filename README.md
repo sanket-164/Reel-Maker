@@ -57,10 +57,15 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**
     ```bash
-    git clone [https://github.com/sanket-164/ReelMaker.git]
+    git clone https://github.com/sanket-164/Reel-Maker.git
     ```
 
-2. **Set Up Environment Variables**
+2. **Navigate to Project Directory**
+    ```bash
+    cd Reel-Maker
+    ```
+
+3. **Set Up Environment Variables**
    - Create a `.env` file in the root directory and add the following environment variables:
 
       ```plaintext
@@ -73,17 +78,15 @@ Ensure you have the following installed:
       EMAIL_PASSWORD=your_email_password
       ```
 
-3. **Install Dependencies**
-   - Use the following command to install required packages:
+4. **Install Dependencies**
       ```bash
       pip install -r requirements.txt
       ```
 
-4. **Install Whisper by OpenAI**
+5. **Install Whisper by OpenAI**
    - Follow [Whisper's installation instructions](https://github.com/openai/whisper) to set up the model.
 
-5. **Run the Application**
-   - Start the Streamlit app with:
+6. **Run the Application**
       ```bash
       streamlit run app.py
       ```
