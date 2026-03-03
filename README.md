@@ -8,6 +8,14 @@ Reel Maker is a Streamlit-based application that allows users to upload a video,
 - **Custom Resolution**: Allows users to select their preferred resolution for the generated reel. 
 - **Download**: Once the reel is generated, users can download the video.
 
+### Watch the demo of how the application works
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=yiZHaVVngIE">
+    <img src="https://github.com/sanket-164/ReelMaker/blob/main/images/ReelMaker_Logo.png" alt="Watch the video" />
+  </a>
+</div>
+
 ## Screenshots
 
 ### 1. Account Management
@@ -34,14 +42,6 @@ Reel Maker is a Streamlit-based application that allows users to upload a video,
 
 ### 5. Saved Reels
   ![Saved Reels](https://github.com/sanket-164/ReelMaker/blob/main/images/Saved_Reels.png)
-
-### Watch the demo of how the application works
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=yiZHaVVngIE">
-    <img src="https://github.com/sanket-164/ReelMaker/blob/main/images/ReelMaker_Logo.png" alt="Watch the video" />
-  </a>
-</div>
 
 ## Getting Started
 
