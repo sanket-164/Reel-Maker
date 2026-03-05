@@ -8,6 +8,10 @@ Reel Maker is a Streamlit-based application that allows users to upload a video,
 - **Custom Resolution**: Allows users to select their preferred resolution for the generated reel. 
 - **Download**: Once the reel is generated, users can download the video.
 
+## Internal Architecture
+
+![Reel-Maker-Architecture](images/Architecture.png)
+
 ### Watch the demo of how the application works
 
 <div align="center">
